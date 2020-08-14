@@ -54,10 +54,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richmal_Crompton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n87829558</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">John George Brown</dc:contributor>
-		<meta property="file-as" refines="#artist">Brown, John George</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_George_Brown</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n86022536</meta>
+		<dc:contributor id="artist">Frank Duveneck</dc:contributor>
+		<meta property="file-as" refines="#artist">Duveneck, Frank</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frank_Duveneck</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85362084</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Clarke</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Clarke, David</meta>
