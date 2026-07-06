@@ -49,7 +49,7 @@
 		<meta property="schema:wordCount">46883</meta>
 		<meta property="schema:educationalLevel">77.13</meta>
 		<link href="https://en.wikipedia.org/wiki/Just_William" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/richmal-crompton_just-william" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Richmal Crompton</dc:creator>
